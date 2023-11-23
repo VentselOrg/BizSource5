@@ -1,0 +1,21 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: M:Codeunit::Artur#Hello#Say_Hello.SayHello(Text)
+  name: SayHello
+  href: reference/myapp/Codeunit/Artur.Hello.Say-Hello.html
+- uid: N:Module::MyApp
+  name: MyApp
+  summary: ''
+  fqName: MyApp by Artur (1.0.0.0)
+  href: reference/myapp/Module/MyApp.html
+- uid: O:Codeunit::Artur#Hello#Say_Hello
+  name: "\"Say Hello\""
+  summary: >
+    <p sourcefile="reference/myapp/Codeunit/Artur.Hello.Say-Hello.yml" sourcestartlinenumber="1" jsonPath="/summary">This codeunit is used to say hello to the user.</p>
+  fqName: Artur.Hello."Say Hello"
+  href: reference/myapp/Codeunit/Artur.Hello.Say-Hello.html
+- uid: O:PageExtension::CustomerListExt
+  name: CustomerListExt
+  fqName: CustomerListExt
+  href: reference/myapp/PageExtension/CustomerListExt.html
